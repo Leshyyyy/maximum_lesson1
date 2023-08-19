@@ -3,9 +3,9 @@ def is_palindrom(stroka):
     rev= part1[::-1]
     part2=stroka[len(stroka)//2:]
     if rev == part2:
-        print('TRUE')
+        print('True')
     else:
-        print('NO')
+        print('False')
     
 
 
