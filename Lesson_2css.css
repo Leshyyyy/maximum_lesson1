@@ -1,0 +1,25 @@
+h1 {
+    background: cyan;
+}
+.p-1 {
+    background: rebeccapurple;
+    font-size: 32pt;
+    color: antiquewhite;
+    font-weight: lighter;
+}
+.p-2 {
+    background: hotpink;
+    font-size: 25pt;
+    color: teal;
+    border: 10px solid sandybrown;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.home {
+    background: rgb(247, 230, 2);
+    color: rgb(228, 87, 44);
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: green 2px 2px;
+}
